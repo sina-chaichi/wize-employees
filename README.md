@@ -20,7 +20,7 @@ Make development environment ready using commands below;
     Run wize-employees using:
     $ python3 manage.py runserver 8080 #local server on port 8080
     
-Go to http://localhost:8000 to see your wize apis.
+Go to http://localhost:8080 to see your wize apis.
 From the directory wize import Wize_Employees_postman_collection.json file into your postman API manager
 or go to the link: https://documenter.getpostman.com/view/6566217/SW7dVmJF and test all APIs!
 
