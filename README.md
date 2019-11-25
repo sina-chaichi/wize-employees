@@ -22,7 +22,7 @@ Make development environment ready using commands below;
     
 Go to http://localhost:8000 to see your wize apis.
 From the directory wize import Wize_Employees_postman_collection.json file into your postman API manager
-and test all APIs!
+or go to the link: https://documenter.getpostman.com/view/6566217/SW7dVmJF and test all APIs!
 
 
 
